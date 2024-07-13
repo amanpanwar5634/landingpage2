@@ -1,0 +1,117 @@
+  .container{
+    height:100vh;
+    width:100%;
+  background-color:rgb(74, 72, 72);
+    padding-top:75px;
+    margin-top:0px;
+     
+  }
+  .statement{
+    margin-left:120px;
+  }
+
+  .statement p{
+    font-size:35px;
+    color:rgb(188, 195, 176);
+    font-weight: bolder;
+  }
+  .statement p::first-letter{
+    font-size:65px;
+    color:rgb(2, 155, 2);
+  }
+  header{
+    display:flex;
+    flex-direction:row;
+    justify-content: space space-evenly;
+  }
+  .about{
+    display:flex;
+    margin-left:300px;
+    justify-content:space-evenly;
+    margin-top:70px;
+  }
+  .variety{
+    margin-left:80px;
+  }
+  .price
+ {
+    margin-left:75px;
+ }
+ section{
+  height:500px;
+  width:100%;
+  background-color: rgb(251, 244, 233);
+  display:inline-block;
+ }
+.btn{
+  margin-bottom:20px;
+}
+.container{
+  background-color:rgb(74, 72, 72);
+  width:90%;
+ }
+ .btn button{
+border:2px solid rgb(74, 72, 72);
+margin-left:300px;
+color:whitesmoke;
+font-weight:bolder;
+font-size:20px; 
+ background-color:rgb(74, 72, 72);
+ }
+ button:hover{
+  border-radius:20px;
+  background-color:darkgreen;
+ }
+ .image2 img{
+  border-top-right-radius: 300px;
+  border-bottom-right-radius: 300px;
+ }
+ .image img{
+  border-top-left-radius: 300px;
+  border-bottom-left-radius: 300px;
+ }
+.write h2{
+font-size:70px;
+margin-left: 100px;
+margin-top:30px;}
+ span{
+  font-size:140px;
+  color:rgb(3, 83, 3);
+  margin-left:40px;
+  margin-top:20px;
+ }
+ span:hover{
+  color:rgb(3, 123, 3);
+  box-shadow: rgb(13, 117, 13);
+ }
+ h4{
+  font-size:30px;
+  margin-left:100px;
+ }
+ footer button{
+  border-radius:50px;
+  background: darkgreen;
+ }
+ 
+ .image2 img:hover{ box-shadow:10px 10px 20px rgb(133, 131, 131);}
+ .image img:hover{ box-shadow:-10px 10px 20px rgb(133, 131, 131);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
